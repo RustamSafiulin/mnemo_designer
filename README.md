@@ -1,2 +1,2 @@
 # mnemo_designer
-Vector graphic editor written by Qt 5.4 using QGraphics framework.
+Vector graphic editor written by Qt 5.4 using QGraphics framework for build HMI mnemoschemes.
